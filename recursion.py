@@ -2,7 +2,7 @@
 
 #Factorial 
 
-# n! = n * (n-1) 
+# n! = n * (n-1)!          ! = it means factorial
 # if n! is 0, return 1
 
 def factorial(n):
